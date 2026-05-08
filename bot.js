@@ -44,4 +44,4 @@ async function runBot() {
 
 // Run immediately, then every 5 minutes
 runBot();
-setInterval(runBot, 5 * 60 * 1000);
+setInterval(runBot, 15 * 1000);
